@@ -11,11 +11,9 @@
 // ===========================================
 
 const apps = [
-  { name: "Wispr Flow", url: "flow://" },
   { name: "Google Maps", url: "comgooglemaps://" },
   { name: "Claude", url: "claude://" },
   { name: "Elite HRV", url: "elitehrv://" },
-  { name: "Brilliant", url: "brilliant://" },
 ];
 
 /*
