@@ -11,10 +11,11 @@
 // ===========================================
 
 const apps = [
+  { name: "Wispr Flow", url: "flow://" },
   { name: "Google Maps", url: "comgooglemaps://" },
-  { name: "ChatGPT", url: "chatgpt://" },
   { name: "Claude", url: "claude://" },
-  { name: "Gemini", url: "googlegemini://" },
+  { name: "Elite HRV", url: "elitehrv://" },
+  { name: "Brilliant", url: "brilliant://" },
 ];
 
 /*
