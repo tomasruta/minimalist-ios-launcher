@@ -14,6 +14,8 @@ const apps = [
   { name: "Google Maps", url: "comgooglemaps://" },
   { name: "Claude", url: "claude://" },
   { name: "Elite HRV", url: "elitehrv://" },
+  { name: "Brilliant", url: "brilliant://" },
+  { name: "Wispr Flow", url: "wispr://dictate" },
 ];
 
 /*
